@@ -22,9 +22,9 @@ SO THAT I can keep a list of books to purchase
  npm install
 
  ## Preview
- <img src="../server/assets/images/1.png" width="720" heigth="480">
+ <img src="./server/assets/images/1.PNG" width="720" heigth="480">
 
- <img src="../server/assets/images/2.png" width="720" heigth="480">
+ <img src="./server/assets/images/2.PNG" width="720" heigth="480">
 
 
  ## License
